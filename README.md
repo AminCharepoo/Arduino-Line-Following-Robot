@@ -113,3 +113,9 @@ Improve obstacle avoidance logic
 
 Clean up state handling in the main loop
 
+## Outcomes
+Won first place in the end of year competition against 3 other teams. 
+
+## Team Members
+Amin Charepoo
+Victor Li
