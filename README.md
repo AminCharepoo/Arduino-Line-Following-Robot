@@ -92,3 +92,24 @@ int swingSpeed = 70;
 int turnSpeed = 40;
 int forwardSpeed = 40;
 float swingReduction = 0.15;
+
+```
+## Known Limitations
+
+Turning angles and distances are time-based (no encoders)
+
+Line threshold may need calibration depending on surface and lighting
+
+Obstacle avoidance is basic and not map-based
+
+
+## Future Improvements
+
+Add wheel encoders for precise turning
+
+Implement PID control for smoother line following
+
+Improve obstacle avoidance logic
+
+Clean up state handling in the main loop
+
