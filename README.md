@@ -117,5 +117,5 @@ Clean up state handling in the main loop
 Won first place in the end of year competition against 3 other teams. 
 
 ## Team Members
-Amin Charepoo
+Amin Charepoo,
 Victor Li
