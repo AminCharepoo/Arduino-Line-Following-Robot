@@ -17,6 +17,13 @@ This project was built as a hands-on robotics exercise combining motor control, 
 
 ---
 
+<p align="center">
+  <img src="Images/Main.png" alt="Main Image" width="400">
+  <img src="Images/SideView.png" alt="Side View Image" width="400">
+  <img src="Images/InAction.png" alt="In Action Image" width="400">
+  <img src="Images/BottomView.png" alt="Bottom View Image" width="400">
+</p>
+
 ## Hardware Used
 
 - Arduino (Uno or compatible)
